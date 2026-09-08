@@ -22,6 +22,11 @@ O projeto é voltado para pessoas que gostam de assistir filmes e procuram novas
 
 O projeto poderá utilizar tecnologias como:
 
+-C++ — linguagem utilizada no desenvolvimento do sistema.
+-Programação Orientada a Objetos (POO) — utilizada na estruturação das classes e na organização do sistema.
+-Git e GitHub — utilizados para controle de versão e desenvolvimento colaborativo.
+-Banco de Dados — utilizado para armazenar e gerenciar os dados do sistema.
+-Visual Studio Code — ambiente utilizado para desenvolvimento e edição do código.
 - HTML
 - CSS
 - JavaScript
