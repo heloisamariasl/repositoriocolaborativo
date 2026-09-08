@@ -114,3 +114,61 @@ Projeto desenvolvido para fins didáticos pela equipe CineMatch:
 **Licença**
 
 Este projeto está distribuído sob a licença **MIT**. Consulte o arquivo `LICENSE` para mais detalhes.
+# 🎬 Cinematch
+
+> Encontre o filme perfeito para assistir em dupla sem perder tempo!
+
+---
+
+## 📋 Sumário
+1. [Sobre o Projeto](#1-sobre-o-projeto)
+2. [Funcionalidades e Tecnologias](#2-funcionalidades-e-tecnologias)
+3. [Como utilizar](#3-como-utilizar)
+   - [Pré-requisitos](#pré-requisitos)
+   - [Como instalar/clonar o projeto](#como-instalarclonar-o-projeto)
+   - [Como executar localmente](#como-executar-localmente)
+   - [Como utilizar as principais funcionalidades](#como-utilizar-as-principais-funcionalidades)
+   - [Exemplos de uso](#exemplos-de-uso)
+4. [Estrutura do Projeto](#4-estrutura-do-projeto)
+5. [Como Contribuir](#5-como-contribuir)
+6. [Licença](#6-licença)
+7. [Autores e Agradecimentos](#7-autores-e-agradecimentos)
+
+---
+
+## 1. Sobre o Projeto
+
+O **Cinematch** é uma aplicação web desenvolvida para resolver o clássico dilema de "o que vamos assistir hoje?". Inspirado na dinâmica de aplicativos de relacionamento, o Cinematch permite que duas pessoas entrem em uma mesma sala virtual, filtrem filmes por gênero ou plataforma de streaming e deem *swipe* (curtir/pular) nos títulos apresentados. Quando ambos dão *like* no mesmo filme, a aplicação exibe um **Match!** 🍿🎉
+
+---
+
+## 2. Funcionalidades e Tecnologias
+
+### ✨ Funcionalidades
+- **Salas em Tempo Real:** Criação e entrada em salas através de códigos únicos.
+- **Filtros Personalizados:** Seleção por gênero, serviços de streaming e ano de lançamento.
+- **Interface de Swipe:** Cartões interativos com informações detalhadas, sinopse e nota do filme.
+- **Notificação de Match:** Alerta em tempo real assim que a dupla combina na escolha.
+- **Lista de Combinados:** Aba dedicada para visualizar todos os filmes que deram *match* na sala.
+
+### 🛠️ Tecnologias Utilizadas
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **API de Filmes:** TMDB (The Movie Database) API
+- **Build Tool:** Vite
+
+---
+
+## 3. Como utilizar
+
+### Pré-requisitos
+Antes de começar, certifique-se de ter instalado em sua máquina:
+* **Git** (para clonagem do repositório)
+* **Node.js** (versão 18.x ou superior)
+* **NPM** ou **Yarn** (gerenciador de pacotes)
+* Uma chave de API gratuita do **TMDB (The Movie Database)**
+
+### Como instalar/clonar o projeto
+
+1. Clone o repositório para a sua máquina local:
+   ```bash
+   git clone [https://github.com/seu-usuario/cinematch.git](https://github.com/seu-usuario/cinematch.git)
