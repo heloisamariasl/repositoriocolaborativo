@@ -27,3 +27,31 @@ O projeto poderá utilizar tecnologias como:
 - JavaScript
 - Git
 - GitHub
+
+## 🎯 Funcionalidades
+
+O CineMatch é uma plataforma voltada para a descoberta de filmes e para a interação entre usuários com gostos cinematográficos semelhantes. O sistema conta com as seguintes funcionalidades:
+
+### 👤 Cadastro e login de usuários
+
+Permite que os usuários criem uma conta na plataforma e realizem login para acessar suas informações e utilizar as funcionalidades personalizadas do CineMatch.
+
+### 🔎 Busca de filmes
+
+Possibilita pesquisar filmes por diferentes informações, como título, gênero, diretor ou outros critérios disponíveis no sistema.
+
+### ⭐ Avaliação de filmes
+
+Os usuários podem avaliar os filmes assistidos, permitindo registrar suas opiniões e contribuir para o sistema de recomendações.
+
+### 🎬 Sistema de recomendações
+
+Com base nas avaliações, preferências e histórico do usuário, o CineMatch sugere filmes que possam ser do seu interesse.
+
+### 🤝 Match entre usuários
+
+O sistema identifica usuários que possuem gostos cinematográficos semelhantes, possibilitando encontrar pessoas com preferências em comum.
+
+### ❤️ Lista de favoritos e Watchlist
+
+Permite que os usuários salvem filmes em uma lista pessoal. Os filmes podem ser adicionados aos **favoritos** ou à **Watchlist**, para serem assistidos posteriormente.
