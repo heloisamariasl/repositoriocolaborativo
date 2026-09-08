@@ -55,4 +55,4 @@ Projeto desenvolvido para fins didáticos pela equipe CineMatch:
 
 **Licença**
 
-Este projeto está distribuído sob a licença **MIT**. Consulte o arquivo `LICENSE` para mais detalhes.
+Este projeto está distribuído sob a licença **MIT**. Consulte o arquivo `LICENSE` para mais detalhes. ..
